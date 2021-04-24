@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @taronsarkisyan
 - 👀 I’m WEB Developer
-- 📫 You can contact me on Telegram or Viber +380506800793
+- 📫 My contacts: +38 (050) 680-07-93
