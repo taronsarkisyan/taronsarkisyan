@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @taronsarkisyan
 - 👀 I’m WEB Developer
-- 🌱 I’m currently learning Magento
 - 📫 You can contact me on Telegram or Viber +380506800793
