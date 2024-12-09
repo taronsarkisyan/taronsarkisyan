@@ -43,7 +43,7 @@ An unofficial hobbyist alternative of the Arnelify POD BackEnd-framework written
 
 ### 📦 Arnelify SDK v0.5.0
 🚧 Under development<br/>
-GitHub: https://github.com/taronsarkisyan/cvmaker-sdk
+GitHub: https://github.com/arnelify/arnelify-sdk
 
 A package that provides developers and companies with a convenient interface for interacting with the Arnelify commercial API.
 
