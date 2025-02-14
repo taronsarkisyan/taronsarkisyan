@@ -30,15 +30,15 @@ A FrontEnd-Framework that allows companies and developers to write one codebase 
 * iOS: Swift, not WebView
 
 Consists of:
-* Arnelify Server for NodeJS<br/>
+* Arnelify Server for NodeJS (Bun)<br/>
 NPM: https://npmjs.com/arnelify-server<br/>
 Yarn: https://yarnpkg.com/package?name=arnelify-server<br/>
 GitHub: https://github.com/arnelify/arnelify-server-node<br/>
-* Arnelify Router for NodeJS<br/>
+* Arnelify Router for NodeJS (Bun)<br/>
 NPM: https://npmjs.com/arnelify-router<br/>
 Yarn: https://yarnpkg.com/package?name=arnelify-server<br/>
 GitHub: https://github.com/arnelify/arnelify-router-node<br/>
-* Arnelify Broker for NodeJS<br/>
+* Arnelify Broker for NodeJS (Bun)<br/>
 NPM: https://npmjs.com/arnelify-broker<br/>
 Yarn: https://yarnpkg.com/package?name=arnelify-server<br/>
 GitHub: https://github.com/arnelify/arnelify-broker-node<br/>
@@ -51,15 +51,15 @@ GitHub: https://github.com/arnelify/arnelify-pod-node<br/>
 BackEnd-framework for creating scalable microservices applications.
 
 Consists of:
-* Arnelify Server for NodeJS<br/>
+* Arnelify Server for NodeJS (Bun)<br/>
 NPM: https://npmjs.com/arnelify-server<br/>
 Yarn: https://yarnpkg.com/package?name=arnelify-server<br/>
 GitHub: https://github.com/arnelify/arnelify-server-node<br/>
-* Arnelify Router for NodeJS<br/>
+* Arnelify Router for NodeJS (Bun)<br/>
 NPM: https://npmjs.com/arnelify-router<br/>
 Yarn: https://yarnpkg.com/package?name=arnelify-server<br/>
 GitHub: https://github.com/arnelify/arnelify-router-node<br/>
-* Arnelify Broker for NodeJS<br/>
+* Arnelify Broker for NodeJS (Bun)<br/>
 NPM: https://npmjs.com/arnelify-broker<br/>
 Yarn: https://yarnpkg.com/package?name=arnelify-server<br/>
 GitHub: https://github.com/arnelify/arnelify-broker-node<br/>
