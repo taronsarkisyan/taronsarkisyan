@@ -18,7 +18,7 @@ GitHub: https://github.com/arnelify/arnelify-router-python<br/>
 PyPi: https://pypi.org/project/arnelify-broker<br/>
 GitHub: https://github.com/arnelify/arnelify-broker-python<br/>
 
-### 📦 Arnelify React Native
+### 📦 Arnelify® React Native
 NPM: https://npmjs.com/arnelify-react-native<br/>
 Yarn: https://yarnpkg.com/package?name=arnelify-react-native<br/>
 GitHub: https://github.com/arnelify/arnelify-react-native<br/>
@@ -30,15 +30,15 @@ A FrontEnd-Framework that allows companies and developers to write one codebase 
 * iOS: Swift, not WebView
 
 Consists of:
-* Arnelify Server for NodeJS (Bun)<br/>
+* Arnelify® Server for NodeJS (Bun)<br/>
 NPM: https://npmjs.com/arnelify-server<br/>
 Yarn: https://yarnpkg.com/package?name=arnelify-server<br/>
 GitHub: https://github.com/arnelify/arnelify-server-node<br/>
-* Arnelify Router for NodeJS (Bun)<br/>
+* Arnelify® Router for NodeJS (Bun)<br/>
 NPM: https://npmjs.com/arnelify-router<br/>
 Yarn: https://yarnpkg.com/package?name=arnelify-server<br/>
 GitHub: https://github.com/arnelify/arnelify-router-node<br/>
-* Arnelify Broker for NodeJS (Bun)<br/>
+* Arnelify® Broker for NodeJS (Bun)<br/>
 NPM: https://npmjs.com/arnelify-broker<br/>
 Yarn: https://yarnpkg.com/package?name=arnelify-server<br/>
 GitHub: https://github.com/arnelify/arnelify-broker-node<br/>
@@ -51,15 +51,15 @@ GitHub: https://github.com/arnelify/arnelify-pod-node<br/>
 BackEnd-framework for creating scalable microservices applications.
 
 Consists of:
-* Arnelify Server for NodeJS (Bun)<br/>
+* Arnelify® Server for NodeJS (Bun)<br/>
 NPM: https://npmjs.com/arnelify-server<br/>
 Yarn: https://yarnpkg.com/package?name=arnelify-server<br/>
 GitHub: https://github.com/arnelify/arnelify-server-node<br/>
-* Arnelify Router for NodeJS (Bun)<br/>
+* Arnelify® Router for NodeJS (Bun)<br/>
 NPM: https://npmjs.com/arnelify-router<br/>
 Yarn: https://yarnpkg.com/package?name=arnelify-server<br/>
 GitHub: https://github.com/arnelify/arnelify-router-node<br/>
-* Arnelify Broker for NodeJS (Bun)<br/>
+* Arnelify® Broker for NodeJS (Bun)<br/>
 NPM: https://npmjs.com/arnelify-broker<br/>
 Yarn: https://yarnpkg.com/package?name=arnelify-server<br/>
 GitHub: https://github.com/arnelify/arnelify-broker-node<br/>
@@ -70,11 +70,11 @@ GitHub: https://github.com/arnelify/arnelify-pod-cpp<br/>
 BackEnd-framework for creating scalable microservices applications.
 
 Consists of:
-* Arnelify Server for C++<br/>
+* Arnelify® Server for C++<br/>
 GitHub: https://github.com/arnelify/arnelify-server-cpp<br/>
-* Arnelify Router for C++<br/>
+* Arnelify® Router for C++<br/>
 GitHub: https://github.com/arnelify/arnelify-router-cpp<br/>
-* Arnelify Broker for C++<br/>
+* Arnelify® Broker for C++<br/>
 GitHub: https://github.com/arnelify/arnelify-broker-cpp<br/>
 
 ### 📦 Arnelify® Mail Server
